@@ -1,0 +1,24 @@
+{
+  "name": "bug-clinic",
+  "version": "1.0.0",
+  "description": "Learning debugging in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matchbookmac/bug-clinic.git"
+  },
+  "keywords": [
+    "learning",
+    "node",
+    "debugging"
+  ],
+  "author": "Ian C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matchbookmac/bug-clinic/issues"
+  },
+  "homepage": "https://github.com/matchbookmac/bug-clinic#readme"
+}
